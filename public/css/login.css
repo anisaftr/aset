@@ -1,0 +1,21 @@
+.card-body {
+    background-color: #B6E3FD;
+}
+
+.card-header {
+    background-color: #B6E3FD;
+    text-align: center;
+}
+
+.card-footer {
+    background-color: #B6E3FD;
+}
+
+.d-flex {
+
+}
+
+img {
+    width: 160px;
+    height: 160px;
+}

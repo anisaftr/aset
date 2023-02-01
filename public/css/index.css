@@ -1,0 +1,37 @@
+.card {
+    background-color: #3d6bcd;
+}
+
+nav {
+    background-color: hsl(228, 99%, 29%);
+    color: black;
+}
+
+.nav {
+    background-color: #000a79;
+    text-decoration-color: black;
+}
+
+.nav-link {
+    color: rgb(173, 236, 254);
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.btn {
+    color: white;
+}
+
+.sb-sidenav-menu-heading {
+    color: rgb(28, 204, 243);
+}
+
+ul.navbar-nav {
+    color: white;
+}
+
+.text {
+    color: white;
+}
